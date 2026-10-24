@@ -1,1 +1,1 @@
-# MSAI-631-B01--AI-for-HCI
+# MSAI-631-B01-AI-for-HCI
